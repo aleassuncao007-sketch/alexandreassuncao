@@ -1,4 +1,5 @@
-## Olá, meu nome é Alexandre e sou estudante do curso de Análise e desenvolvimento de Sistemas pelo Instituto Federal de São Paulo (IFSP).
+## Olá, meu nome é Alexandre.
+<p>Estou cursando ADS pelo IFSP e possuo formação de Técnico em Redes de Computadores pelo SENAI</p>
 
 <div style="display: inline_block">
   
